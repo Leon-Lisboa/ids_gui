@@ -1,0 +1,10 @@
+# Arquivo de requerimentos para o Sistema de Detecção de Intrusão (IDS)
+# Requer Python 3.10+
+
+scapy
+numpy
+pandas
+matplotlib
+pyshark
+tkinter
+
